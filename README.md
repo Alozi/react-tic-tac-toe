@@ -2,8 +2,7 @@ React Project Tic-Tac-Toe
 
 This is a small tic-tac-toe game.
 
-![Screenshot 2024-05-29 at 15.42.44.png](..%2F..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fq7%2F1j6rk9590dq1lfhzcpzz85hm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_u8t0hF%2FScreenshot%202024-05-29%20at%2015.42.44.png)
-
+<img width="328" alt="Screenshot 2024-05-29 at 15 55 04" src="https://github.com/Alozi/react-tic-tac-toe/assets/19211688/fd423f73-4589-45f4-ad80-d49d94521629">
 
 Run project:
 
